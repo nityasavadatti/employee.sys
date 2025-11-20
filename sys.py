@@ -1,4 +1,5 @@
 import sys
+if len(sys.argv) !=5 :
 emp_name=sys.argv[1]
 emp_id=sys.argv[2]
 emp_salary=sys.argv[3]
