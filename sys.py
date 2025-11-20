@@ -3,7 +3,7 @@
  
 import sys
 #check if correct number of arguments a
-if len(sys.argv)!=5:
+if len(sys.argv)==5:
   sys.exit(1)
 #sys.argv[0] is always the program name
 name=sys.argv[1]
