@@ -4,7 +4,7 @@
 import sys
 #check if correct number of arguments a
 if len(sys.argv)>5:
-  print("usage:python sys.py<name><roll>")
+  print("usage")
   sys.exit(1)
 #sys.argv[0] is always the program name
 name=sys.argv[1]
