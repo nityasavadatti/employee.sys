@@ -1,5 +1,4 @@
-import sys
-if len(sys.argv) !=5 :
+import sys 
 emp_name=sys.argv[1]
 emp_id=sys.argv[2]
 emp_salary=sys.argv[3]
